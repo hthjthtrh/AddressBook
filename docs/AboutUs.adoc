@@ -1,0 +1,47 @@
+= About Us
+:relfileprefix: team/
+ifdef::env-github,env-browser[:outfilesuffix: .adoc]
+:imagesDir: images
+:stylesDir: stylesheets
+
+We are group T14-B4 of CS2103 AY2017/2018 Sem 1 +
+AddressBook - Level 4 was developed by the https://se-edu.github.io/docs/Team.html[se-edu] team. +
+
+
+== Project Team
+
+=== Liu Rexing
+image::hthjthtrh.jpeg[width="150", align="left"]
+{empty}[http://github.com/hthjthtrh[github]] [<<Rexing#, portfolio>>]
+
+Role: Developer +
+Responsibilities: Storage
+
+'''
+
+=== Melanie Ng Suli
+image::NgSuli.jpeg[width="150", align="left"]
+{empty}[http://github.com/NgSuli[github]] [<<Melanie#, portfolio>>]
+
+Role: Developer +
+Responsibilities: Logic
+
+'''
+
+=== Ma Junting
+image::majunting.jpeg[width="150", align="left"]
+{empty}[http://github.com/majunting[github]] [<<Junting#, portfolio>>]
+
+Role: Developer +
+Responsibilities: Model
+
+'''
+
+=== Dao Truong Giang
+image::heiseish.jpeg[width="150", align="left"]
+{empty}[https://github.com/heiseish[github]] [<<giang#, portfolio>>]
+
+Role: Developer +
+Responsibility: UI
+
+'''
